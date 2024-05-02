@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm student from Brazil<br><br>- 🔭 I’m studying at FIAP - SP<br>- 📚 I'm currently learning Python, Java, JavaScript<br>- ⚡ In my free time I program, listen to music and play cs2</p>
+<p align="left">I'm student from Brazil<br><br>- 🔭 I’m studying at FIAP - SP<br>- 📚 I'm currently learning Python, Java, JavaScript<br>- ⚡ In my free time I code, listen to music and play cs2</p>
 
 ###
 
